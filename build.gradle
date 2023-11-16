@@ -26,7 +26,7 @@ loom {
 			// Tell Loom about each source set used by your mod here. This ensures that your mod's classes are properly transformed by Loader.
 			sourceSet("main")
 			// If you shade (directly include classes, not JiJ) a dependency into your mod, include it here using one of these methods:
-			// dependency("com.example.shadowedmod:1.2.3")
+			// dependency("com.debuggy.shadowedmod:1.2.3")
 			// configuration("exampleShadedConfigurationName")
 		}
 	}
