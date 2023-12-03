@@ -1,0 +1,7 @@
+{
+	"parent": "furniture_extensions:block/templates/template_deck_chair",
+	"textures": {
+		"chair_seat": "minecraft:block/oak_planks",
+		"chair_legs": "minecraft:block/stripped_oak_log"
+	}
+}

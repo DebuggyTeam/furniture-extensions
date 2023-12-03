@@ -5,7 +5,7 @@
 		"id": "fur_ex",
 		"version": "${version}",
 		"metadata": {
-			"name": "Mod Name",
+			"name": "Furniture Extensions",
 			"description": "Furnish your builds!",
 			"contributors": {
 				"Debuggy": "Owner"
